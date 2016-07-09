@@ -1,4 +1,4 @@
-# trace-model
+# trace-model 2008
 Image tracing application skeleton in wxWidgets
 
 This is a skeleton of a program for a making adjustable selection regions on an image.
